@@ -1,7 +1,7 @@
 # Aplicación de Lista de Tareas con React.js
 ¡Bienvenido(a) al repositorio de la Aplicación de Lista de Tareas desarrollada con React.js!
 
-##Descripción
+## Descripción
 Esta aplicación es una herramienta sencilla y poderosa para crear y gestionar tus tareas diarias. 
 Con esta aplicación, podrás agregar tareas, marcarlas como completadas y eliminarlas una vez finalizadas. 
 

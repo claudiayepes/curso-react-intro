@@ -16,6 +16,8 @@ aprovechando al máximo la modularidad y reutilización de componentes para una 
 * Uso de Hooks: Se han empleado los poderosos hooks de React.js, como useState y useEffect, para manejar el estado de la aplicación y
   realizar operaciones en diferentes etapas del ciclo de vida del componente.
 
+Deploy de la app: https://claudiayepes.github.io/curso-react-intro/
+
 ## Instrucciones de Uso
 
 1. Clona este repositorio en tu computadora utilizando el comando git clone https://github.com/claudiayepes/curso-react-intro
